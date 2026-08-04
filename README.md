@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,34,56,80&height=220&section=header&text=Mirza%20Haider%20Rehman&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,30,48,70,90&height=220&section=header&text=Mirza%20Haider%20Rehman&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirzahaider-rehman19&color=00b4d8&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mirzahaider-rehman19?label=Follow&style=for-the-badge&color=0077b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mirzahaider-rehman19&color=845ec2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mirzahaider-rehman19?label=Follow&style=for-the-badge&color=b07cff" alt="Followers" />
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=50&lines=Python+%7C+SQL+%7C+Snowflake;Building+Production-Style+Data+Pipelines;Turning+Raw+Data+Into+Real+Insights;Aspiring+Cloud+Data+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B07CFF&center=true&vCenter=true&width=750&height=60&lines=Data+Engineering+%7C+ETL+Pipelines;Python+%7C+SQL+%7C+Snowflake;Building+Production-Style+Data+Pipelines;Turning+Raw+Data+Into+Real+Insights;Aspiring+Cloud+Data+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_LOCATION-KARACHI%2C_PAKISTAN-00B4D8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎓_STUDYING-BS--SE_%40_ILMA_UNIVERSITY-00B4D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍_LOCATION-KARACHI%2C_PAKISTAN-845EC2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎓_STUDYING-BS--SE_%40_ILMA_UNIVERSITY-845EC2?style=for-the-badge&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_FOCUS-CLOUD_DATA_ENGINEERING-00B4D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_FOCUS-CLOUD_DATA_ENGINEERING-845EC2?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ I'm also expanding my expertise into:
 
 ### ❤️ Interests
 
-<img src="https://img.shields.io/badge/DATA_ENGINEERING-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/CLOUD_COMPUTING-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/DATA_ANALYTICS-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/AUTOMATION-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/BUSINESS_INTELLIGENCE-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-00B4D8?style=flat-square" /> <img src="https://img.shields.io/badge/PROBLEM_SOLVING-00B4D8?style=flat-square" />
+<img src="https://img.shields.io/badge/DATA_ENGINEERING-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/CLOUD_COMPUTING-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/DATA_ANALYTICS-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/AUTOMATION-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/BUSINESS_INTELLIGENCE-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-4389A2?style=flat-square" /> <img src="https://img.shields.io/badge/PROBLEM_SOLVING-4389A2?style=flat-square" />
 
 ---
 
@@ -120,7 +120,7 @@ I'm also expanding my expertise into:
 
 <h3 align="center">Mirza Haider's Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzahaider-rehman19&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzahaider-rehman19&theme=tokyo-night&bg_color=0d1117&color=b07cff&line=b07cff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -128,6 +128,7 @@ I'm also expanding my expertise into:
 ### 📬 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/mirzahaiderrehman"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mirzahaider-rehman19"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:artistmhr1998@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
